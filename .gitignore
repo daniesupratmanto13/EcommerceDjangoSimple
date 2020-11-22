@@ -1,5 +1,5 @@
-images/
-settings.py
+*images/
+*settings.py
 .vscode
 db.sqlite3
-migrations/
+*migrations/
