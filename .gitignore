@@ -1,5 +1,0 @@
-*images/
-*settings.py
-.vscode
-db.sqlite3
-*migrations/
